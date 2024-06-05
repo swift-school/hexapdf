@@ -1,3 +1,33 @@
+## Unreleased
+
+### Added
+
+* Support for specifying the MIME type when embedding files
+* Support for adding custom XMP metadata
+
+### Changed
+
+* **Breaking change**: Refactored the box implementation of the document layout
+  system
+
+
+## Unreleased
+
+### Added
+
+* Support for specifying the MIME type when embedding files
+* Support for adding custom XMP metadata
+
+### Changed
+
+* **Breaking change**: Refactored the box implementation of the document layout
+  system
+
+### Fixed
+
+* Parsing of invalid files with garbage bytes at the end
+
+
 ## 0.43.0 - 2024-05-26
 
 ### Added
